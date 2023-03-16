@@ -1,4 +1,3 @@
 # Jaroo
 
-# Jaroo Icon
-![Shape Example](assets/Jaroo_big.png?raw=true "Shape example")
+![jaroo icon](jaroo_icon.ico?raw=true "jaroo icon")
