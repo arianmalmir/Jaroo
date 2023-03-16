@@ -1,6 +1,6 @@
 # Jaroo
 <p align="center">
-![jaroo icon](assets/Jaroo_big.png?raw=true "Jaroo Icon")
+  <img src="https://raw.githubusercontent.com/arianmalmir/Jaroo/main/assets/Jaroo_big.png">
 </p>
 
 A Persion Voice to Text!
