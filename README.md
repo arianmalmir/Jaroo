@@ -1,3 +1,4 @@
 # Jaroo
+![jaroo icon](assets/Jaroo_big.png?raw=true "Jaroo Icon")
 
-![jaroo icon](jaroo_icon.ico?raw=true "jaroo icon")
+A Persion Voice to Text!
